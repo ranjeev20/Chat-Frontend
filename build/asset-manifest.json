@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/time-to-chat/static/css/main.addae01f.css",
+    "main.js": "/time-to-chat/static/js/main.346f9e97.js",
+    "static/media/background.png": "/time-to-chat/static/media/background.5fc571ccf7c195807c05.png",
+    "index.html": "/time-to-chat/index.html",
+    "main.addae01f.css.map": "/time-to-chat/static/css/main.addae01f.css.map",
+    "main.346f9e97.js.map": "/time-to-chat/static/js/main.346f9e97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.addae01f.css",
+    "static/js/main.346f9e97.js"
+  ]
+}
